@@ -6,30 +6,30 @@
 
 To install the required dependencies, run:
 
-    - pip install -r requirements.txt
+     pip install -r requirements.txt
 
 ### Features
 
-       **- 🎙 Audio Transcription & Translation:** 
+        🎙 Audio Transcription & Translation: 
                     Convert speech into text using Whisper and translate from Tamil to English with Google Translator.
 
               
   
-      **- 🎨 AI-Generated Images:** 
+        🎨 AI-Generated Images:
                     Generate stunning images using Stable Diffusion based on translated text or user prompts.
   
-      **- 🎛 Intuitive Gradio Interface:** 
+        🎛 Intuitive Gradio Interface:
                     A user-friendly interface with multiple interactive tabs for seamless functionality.
 
 ### Models & APIs Used
 
-       **- Stable Diffusion XL (stabilityai/stable-diffusion-xl-base-1.0):** For generating images from text prompts.
+**Stable Diffusion XL (stabilityai/stable-diffusion-xl-base-1.0):** For generating images from text prompts.
   
-       **- Groq API:** This is for audio transcription and chatbot interaction.
+**Groq API:** This is for audio transcription and chatbot interaction.
   
-                      - Whisper model (whisper-large-v3) for Tamil audio transcription.
+          Whisper model (whisper-large-v3) for Tamil audio transcription.
 
-       **- Google Translator:** This is for translating Tamil to English.
+**Google Translator:** This is for translating Tamil to English.
   
 ### Development Steps
 
