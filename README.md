@@ -40,10 +40,13 @@ Configured API keys for Hugging Face and Groq for seamless model integration.
 
 **2. Created Audio Processing Function**
 
-Developed process_audio to handle audio uploads.
-Transcribed speech using Whisper.
-Translated Tamil to English using GoogleTranslator.
-Enabled optional image generation based on translated text.
+- Developed process_audio to handle audio uploads.
+
+- Transcribed speech using Whisper.
+
+- Translated Tamil to English using GoogleTranslator.
+
+- Enabled optional image generation based on translated text.
 
 **3. Implemented Image Generation from Prompts**
 
