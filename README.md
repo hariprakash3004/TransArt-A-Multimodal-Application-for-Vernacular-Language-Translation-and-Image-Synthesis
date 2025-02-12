@@ -10,16 +10,16 @@ To install the required dependencies, run:
 
 ### Features
 
--        🎙 Audio Transcription & Translation: 
-                    Convert speech into text using Whisper and translate from Tamil to English with Google Translator.
+- 🎙 Audio Transcription & Translation: 
+     Convert speech into text using Whisper and translate from Tamil to English with Google Translator.
 
               
   
--        🎨 AI-Generated Images:
-                    Generate stunning images using Stable Diffusion based on translated text or user prompts.
+- 🎨 AI-Generated Images:
+      Generate stunning images using Stable Diffusion based on translated text or user prompts.
   
--       🎛 Intuitive Gradio Interface:
-                    A user-friendly interface with multiple interactive tabs for seamless functionality.
+- 🎛 Intuitive Gradio Interface:
+     A user-friendly interface with multiple interactive tabs for seamless functionality.
 
 ### Models & APIs Used
 
@@ -27,7 +27,7 @@ To install the required dependencies, run:
   
 **Groq API:** This is for audio transcription and chatbot interaction.
   
--          Whisper model (whisper-large-v3) for Tamil audio transcription.
+- Whisper model (whisper-large-v3) for Tamil audio transcription.
 
 **Google Translator:** This is for translating Tamil to English.
   
@@ -53,9 +53,9 @@ Designed generate_image_from_prompt to generate images using a custom Stable Dif
 
 Utilized gr.Blocks() to create a well-structured UI with multiple tabs:
 
-       - 🎙 Audio to Text Tab: Transcribe and translate audio, with an option to generate images.
+- 🎙 Audio to Text Tab: Transcribe and translate audio, with an option to generate images.
 
-       - 🖼 Prompt to Image Tab: Generate images based on user-entered text prompts.
+- 🖼 Prompt to Image Tab: Generate images based on user-entered text prompts.
    
 **6. Customized the App UI**
 
@@ -67,9 +67,9 @@ Deployed the Gradio app, making it accessible for live testing and demonstration
 
 ### How to Use
 
-      - Upload an audio file to transcribe and translate speech into English.
+- Upload an audio file to transcribe and translate speech into English.
 
-      -Generate AI-powered images from text or translated speech.
+- Generate AI-powered images from text or translated speech.
 
 
 ![Screenshot 2025-01-30 201421](https://github.com/user-attachments/assets/06d8b205-00e1-4e53-8784-4b23869b4829)
